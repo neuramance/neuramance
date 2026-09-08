@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/github.webp" alt="A rotating, glitching sculpture in shifting neon colors" width="400">
+  <img src="assets/water.webp" alt="Sunlight shimmering on turquoise water beneath a leafy branch" width="400">
 </p>
