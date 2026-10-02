@@ -1,1 +1,1 @@
-<img src="assets/water-wide.webp" alt="Sunlight shimmering on turquoise water beneath a leafy branch" width="100%">
+<img src="assets/water-mono.webp" alt="Sunlight shimmering on water beneath a leafy branch, in black and white" width="100%">
