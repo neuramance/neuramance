@@ -1,1 +1,1 @@
-<img src="assets/water-mono.webp" alt="Sunlight shimmering on water beneath a leafy branch, in black and white" width="100%">
+<img src="assets/eye-to-eye.webp" alt="Clip from the EYE TO EYE music video by yaego" width="100%">
